@@ -1,0 +1,351 @@
+C:\Users\Sujoy Basak\source\repos\AuthorizationService\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Sujoy Basak\source\repos\AuthorizationService\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Sujoy Basak\source\repos\AuthorizationService\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Sujoy Basak\source\repos\AuthorizationService\bin\Debug\netcoreapp3.1\AuthorizationService.exe
+C:\Users\Sujoy Basak\source\repos\AuthorizationService\obj\Debug\netcoreapp3.1\AuthorizationService.csprojAssemblyReference.cache
+C:\Users\Sujoy Basak\source\repos\AuthorizationService\obj\Debug\netcoreapp3.1\AuthorizationService.AssemblyInfoInputs.cache
+C:\Users\Sujoy Basak\source\repos\AuthorizationService\obj\Debug\netcoreapp3.1\AuthorizationService.AssemblyInfo.cs
+C:\Users\Sujoy Basak\source\repos\AuthorizationService\obj\Debug\netcoreapp3.1\AuthorizationService.RazorTargetAssemblyInfo.cache
+C:\Users\Sujoy Basak\source\repos\AuthorizationService\obj\Debug\netcoreapp3.1\staticwebassets\AuthorizationService.StaticWebAssets.Manifest.cache
+C:\Users\Sujoy Basak\source\repos\AuthorizationService\obj\Debug\netcoreapp3.1\staticwebassets\AuthorizationService.StaticWebAssets.xml
+C:\Users\Sujoy Basak\source\repos\AuthorizationService\bin\Debug\netcoreapp3.1\AuthorizationService.deps.json
+C:\Users\Sujoy Basak\source\repos\AuthorizationService\bin\Debug\netcoreapp3.1\AuthorizationService.runtimeconfig.json
+C:\Users\Sujoy Basak\source\repos\AuthorizationService\bin\Debug\netcoreapp3.1\AuthorizationService.runtimeconfig.dev.json
+C:\Users\Sujoy Basak\source\repos\AuthorizationService\bin\Debug\netcoreapp3.1\AuthorizationService.dll
+C:\Users\Sujoy Basak\source\repos\AuthorizationService\bin\Debug\netcoreapp3.1\AuthorizationService.pdb
+C:\Users\Sujoy Basak\source\repos\AuthorizationService\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Sujoy Basak\source\repos\AuthorizationService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Sujoy Basak\source\repos\AuthorizationService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Sujoy Basak\source\repos\AuthorizationService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Sujoy Basak\source\repos\AuthorizationService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Sujoy Basak\source\repos\AuthorizationService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Sujoy Basak\source\repos\AuthorizationService\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Sujoy Basak\source\repos\AuthorizationService\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Sujoy Basak\source\repos\AuthorizationService\obj\Debug\netcoreapp3.1\AuthorizationService.csproj.CoreCompileInputs.cache
+C:\Users\Sujoy Basak\source\repos\AuthorizationService\obj\Debug\netcoreapp3.1\AuthorizationService.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Sujoy Basak\source\repos\AuthorizationService\obj\Debug\netcoreapp3.1\AuthorizationService.csproj.CopyComplete
+C:\Users\Sujoy Basak\source\repos\AuthorizationService\obj\Debug\netcoreapp3.1\AuthorizationService.dll
+C:\Users\Sujoy Basak\source\repos\AuthorizationService\obj\Debug\netcoreapp3.1\AuthorizationService.pdb
+C:\Users\Sujoy Basak\source\repos\AuthorizationService\obj\Debug\netcoreapp3.1\AuthorizationService.genruntimeconfig.cache
+C:\Users\Sujoy Basak\source\repos\MFPE\Microservices\AuthorizationService\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Sujoy Basak\source\repos\MFPE\Microservices\AuthorizationService\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Sujoy Basak\source\repos\MFPE\Microservices\AuthorizationService\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Sujoy Basak\source\repos\MFPE\Microservices\AuthorizationService\bin\Debug\netcoreapp3.1\AuthorizationService.exe
+C:\Users\Sujoy Basak\source\repos\MFPE\Microservices\AuthorizationService\bin\Debug\netcoreapp3.1\AuthorizationService.deps.json
+C:\Users\Sujoy Basak\source\repos\MFPE\Microservices\AuthorizationService\bin\Debug\netcoreapp3.1\AuthorizationService.runtimeconfig.json
+C:\Users\Sujoy Basak\source\repos\MFPE\Microservices\AuthorizationService\bin\Debug\netcoreapp3.1\AuthorizationService.runtimeconfig.dev.json
+C:\Users\Sujoy Basak\source\repos\MFPE\Microservices\AuthorizationService\bin\Debug\netcoreapp3.1\AuthorizationService.dll
+C:\Users\Sujoy Basak\source\repos\MFPE\Microservices\AuthorizationService\bin\Debug\netcoreapp3.1\AuthorizationService.pdb
+C:\Users\Sujoy Basak\source\repos\MFPE\Microservices\AuthorizationService\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Sujoy Basak\source\repos\MFPE\Microservices\AuthorizationService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Sujoy Basak\source\repos\MFPE\Microservices\AuthorizationService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Sujoy Basak\source\repos\MFPE\Microservices\AuthorizationService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Sujoy Basak\source\repos\MFPE\Microservices\AuthorizationService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Sujoy Basak\source\repos\MFPE\Microservices\AuthorizationService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Sujoy Basak\source\repos\MFPE\Microservices\AuthorizationService\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Sujoy Basak\source\repos\MFPE\Microservices\AuthorizationService\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Sujoy Basak\source\repos\MFPE\Microservices\AuthorizationService\obj\Debug\netcoreapp3.1\AuthorizationService.csprojAssemblyReference.cache
+C:\Users\Sujoy Basak\source\repos\MFPE\Microservices\AuthorizationService\obj\Debug\netcoreapp3.1\AuthorizationService.AssemblyInfoInputs.cache
+C:\Users\Sujoy Basak\source\repos\MFPE\Microservices\AuthorizationService\obj\Debug\netcoreapp3.1\AuthorizationService.AssemblyInfo.cs
+C:\Users\Sujoy Basak\source\repos\MFPE\Microservices\AuthorizationService\obj\Debug\netcoreapp3.1\AuthorizationService.RazorTargetAssemblyInfo.cache
+C:\Users\Sujoy Basak\source\repos\MFPE\Microservices\AuthorizationService\obj\Debug\netcoreapp3.1\AuthorizationService.csproj.CopyComplete
+C:\Users\Sujoy Basak\source\repos\MFPE\Microservices\AuthorizationService\obj\Debug\netcoreapp3.1\staticwebassets\AuthorizationService.StaticWebAssets.Manifest.cache
+C:\Users\Sujoy Basak\source\repos\MFPE\Microservices\AuthorizationService\obj\Debug\netcoreapp3.1\staticwebassets\AuthorizationService.StaticWebAssets.xml
+C:\Users\Sujoy Basak\source\repos\MFPE\Microservices\AuthorizationService\obj\Debug\netcoreapp3.1\AuthorizationService.dll
+C:\Users\Sujoy Basak\source\repos\MFPE\Microservices\AuthorizationService\obj\Debug\netcoreapp3.1\AuthorizationService.pdb
+C:\Users\Sujoy Basak\source\repos\MFPE\Microservices\AuthorizationService\obj\Debug\netcoreapp3.1\AuthorizationService.genruntimeconfig.cache
+C:\Users\Sujoy Basak\source\repos\MFPE\Microservices\AuthorizationService\bin\Debug\netcoreapp3.1\log4net.config
+C:\Users\Sujoy Basak\source\repos\MFPE\Microservices\AuthorizationService\bin\Debug\netcoreapp3.1\log4net.dll
+C:\Users\Sujoy Basak\source\repos\MFPE\Microservices\AuthorizationService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Sujoy Basak\source\repos\MFPE\Microservices\AuthorizationService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Sujoy Basak\source\repos\MFPE\Microservices\AuthorizationService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Sujoy Basak\source\repos\MFPE\Microservices\AuthorizationService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Sujoy Basak\source\repos\MFPE\Microservices\AuthorizationService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Sujoy Basak\source\repos\MFPE\Microservices\AuthorizationService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Sujoy Basak\source\repos\MFPE\Microservices\AuthorizationService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Sujoy Basak\source\repos\MFPE\Microservices\AuthorizationService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+C:\Users\Sujoy Basak\source\repos\MFPE\Microservices\AuthorizationService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Sujoy Basak\source\repos\MFPE\Microservices\AuthorizationService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Sujoy Basak\source\repos\MFPE\Microservices\AuthorizationService\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\Sujoy Basak\source\repos\MFPE\Microservices\AuthorizationService\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Sujoy Basak\source\repos\MFPE\Microservices\AuthorizationService\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Sujoy Basak\source\repos\MFPE\Microservices\AuthorizationService\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Sujoy Basak\source\repos\MFPE\Microservices\AuthorizationService\obj\Debug\netcoreapp3.1\AuthorizationService.csproj.CoreCompileInputs.cache
+C:\Users\Sujoy Basak\source\repos\MFPE\Microservices\AuthorizationService\obj\Debug\netcoreapp3.1\AuthorizationService.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Sujoy Basak\source\repos\MFPE\Microservices\AuthorizationService\obj\Debug\netcoreapp3.1\AuthorizationService.MvcApplicationPartsAssemblyInfo.cache
+D:\Study\ASP.NET CORE PROJECTS\Claim Management\AuthorizationService\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Study\ASP.NET CORE PROJECTS\Claim Management\AuthorizationService\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Study\ASP.NET CORE PROJECTS\Claim Management\AuthorizationService\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Study\ASP.NET CORE PROJECTS\Claim Management\AuthorizationService\bin\Debug\netcoreapp3.1\log4net.config
+D:\Study\ASP.NET CORE PROJECTS\Claim Management\AuthorizationService\bin\Debug\netcoreapp3.1\AuthorizationService.exe
+D:\Study\ASP.NET CORE PROJECTS\Claim Management\AuthorizationService\bin\Debug\netcoreapp3.1\AuthorizationService.deps.json
+D:\Study\ASP.NET CORE PROJECTS\Claim Management\AuthorizationService\bin\Debug\netcoreapp3.1\AuthorizationService.runtimeconfig.json
+D:\Study\ASP.NET CORE PROJECTS\Claim Management\AuthorizationService\bin\Debug\netcoreapp3.1\AuthorizationService.runtimeconfig.dev.json
+D:\Study\ASP.NET CORE PROJECTS\Claim Management\AuthorizationService\bin\Debug\netcoreapp3.1\AuthorizationService.dll
+D:\Study\ASP.NET CORE PROJECTS\Claim Management\AuthorizationService\bin\Debug\netcoreapp3.1\AuthorizationService.pdb
+D:\Study\ASP.NET CORE PROJECTS\Claim Management\AuthorizationService\bin\Debug\netcoreapp3.1\log4net.dll
+D:\Study\ASP.NET CORE PROJECTS\Claim Management\AuthorizationService\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Study\ASP.NET CORE PROJECTS\Claim Management\AuthorizationService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Study\ASP.NET CORE PROJECTS\Claim Management\AuthorizationService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Study\ASP.NET CORE PROJECTS\Claim Management\AuthorizationService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\Study\ASP.NET CORE PROJECTS\Claim Management\AuthorizationService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Study\ASP.NET CORE PROJECTS\Claim Management\AuthorizationService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Study\ASP.NET CORE PROJECTS\Claim Management\AuthorizationService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Study\ASP.NET CORE PROJECTS\Claim Management\AuthorizationService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Study\ASP.NET CORE PROJECTS\Claim Management\AuthorizationService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+D:\Study\ASP.NET CORE PROJECTS\Claim Management\AuthorizationService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Study\ASP.NET CORE PROJECTS\Claim Management\AuthorizationService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Study\ASP.NET CORE PROJECTS\Claim Management\AuthorizationService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Study\ASP.NET CORE PROJECTS\Claim Management\AuthorizationService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Study\ASP.NET CORE PROJECTS\Claim Management\AuthorizationService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Study\ASP.NET CORE PROJECTS\Claim Management\AuthorizationService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Study\ASP.NET CORE PROJECTS\Claim Management\AuthorizationService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Study\ASP.NET CORE PROJECTS\Claim Management\AuthorizationService\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\Study\ASP.NET CORE PROJECTS\Claim Management\AuthorizationService\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Study\ASP.NET CORE PROJECTS\Claim Management\AuthorizationService\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\Study\ASP.NET CORE PROJECTS\Claim Management\AuthorizationService\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Study\ASP.NET CORE PROJECTS\Claim Management\AuthorizationService\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Study\ASP.NET CORE PROJECTS\Claim Management\AuthorizationService\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Study\ASP.NET CORE PROJECTS\Claim Management\AuthorizationService\obj\Debug\netcoreapp3.1\AuthorizationService.csprojAssemblyReference.cache
+D:\Study\ASP.NET CORE PROJECTS\Claim Management\AuthorizationService\obj\Debug\netcoreapp3.1\AuthorizationService.AssemblyInfoInputs.cache
+D:\Study\ASP.NET CORE PROJECTS\Claim Management\AuthorizationService\obj\Debug\netcoreapp3.1\AuthorizationService.AssemblyInfo.cs
+D:\Study\ASP.NET CORE PROJECTS\Claim Management\AuthorizationService\obj\Debug\netcoreapp3.1\AuthorizationService.csproj.CoreCompileInputs.cache
+D:\Study\ASP.NET CORE PROJECTS\Claim Management\AuthorizationService\obj\Debug\netcoreapp3.1\AuthorizationService.MvcApplicationPartsAssemblyInfo.cs
+D:\Study\ASP.NET CORE PROJECTS\Claim Management\AuthorizationService\obj\Debug\netcoreapp3.1\AuthorizationService.MvcApplicationPartsAssemblyInfo.cache
+D:\Study\ASP.NET CORE PROJECTS\Claim Management\AuthorizationService\obj\Debug\netcoreapp3.1\AuthorizationService.RazorTargetAssemblyInfo.cache
+D:\Study\ASP.NET CORE PROJECTS\Claim Management\AuthorizationService\obj\Debug\netcoreapp3.1\AuthorizationService.csproj.CopyComplete
+D:\Study\ASP.NET CORE PROJECTS\Claim Management\AuthorizationService\obj\Debug\netcoreapp3.1\staticwebassets\AuthorizationService.StaticWebAssets.Manifest.cache
+D:\Study\ASP.NET CORE PROJECTS\Claim Management\AuthorizationService\obj\Debug\netcoreapp3.1\staticwebassets\AuthorizationService.StaticWebAssets.xml
+D:\Study\ASP.NET CORE PROJECTS\Claim Management\AuthorizationService\obj\Debug\netcoreapp3.1\AuthorizationService.dll
+D:\Study\ASP.NET CORE PROJECTS\Claim Management\AuthorizationService\obj\Debug\netcoreapp3.1\AuthorizationService.pdb
+D:\Study\ASP.NET CORE PROJECTS\Claim Management\AuthorizationService\obj\Debug\netcoreapp3.1\AuthorizationService.genruntimeconfig.cache
+C:\Users\Arghyadeep\Desktop\Claim Management\AuthorizationService\bin\Debug\netcoreapp3.1\log4net.config
+C:\Users\Arghyadeep\Desktop\Claim Management\AuthorizationService\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Arghyadeep\Desktop\Claim Management\AuthorizationService\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Arghyadeep\Desktop\Claim Management\AuthorizationService\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Arghyadeep\Desktop\Claim Management\AuthorizationService\bin\Debug\netcoreapp3.1\AuthorizationService.exe
+C:\Users\Arghyadeep\Desktop\Claim Management\AuthorizationService\bin\Debug\netcoreapp3.1\AuthorizationService.deps.json
+C:\Users\Arghyadeep\Desktop\Claim Management\AuthorizationService\bin\Debug\netcoreapp3.1\AuthorizationService.runtimeconfig.json
+C:\Users\Arghyadeep\Desktop\Claim Management\AuthorizationService\bin\Debug\netcoreapp3.1\AuthorizationService.runtimeconfig.dev.json
+C:\Users\Arghyadeep\Desktop\Claim Management\AuthorizationService\bin\Debug\netcoreapp3.1\AuthorizationService.dll
+C:\Users\Arghyadeep\Desktop\Claim Management\AuthorizationService\bin\Debug\netcoreapp3.1\AuthorizationService.pdb
+C:\Users\Arghyadeep\Desktop\Claim Management\AuthorizationService\bin\Debug\netcoreapp3.1\log4net.dll
+C:\Users\Arghyadeep\Desktop\Claim Management\AuthorizationService\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Arghyadeep\Desktop\Claim Management\AuthorizationService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Arghyadeep\Desktop\Claim Management\AuthorizationService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Arghyadeep\Desktop\Claim Management\AuthorizationService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Arghyadeep\Desktop\Claim Management\AuthorizationService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Arghyadeep\Desktop\Claim Management\AuthorizationService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Arghyadeep\Desktop\Claim Management\AuthorizationService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Arghyadeep\Desktop\Claim Management\AuthorizationService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Arghyadeep\Desktop\Claim Management\AuthorizationService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+C:\Users\Arghyadeep\Desktop\Claim Management\AuthorizationService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Arghyadeep\Desktop\Claim Management\AuthorizationService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Arghyadeep\Desktop\Claim Management\AuthorizationService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Arghyadeep\Desktop\Claim Management\AuthorizationService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Arghyadeep\Desktop\Claim Management\AuthorizationService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Arghyadeep\Desktop\Claim Management\AuthorizationService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Arghyadeep\Desktop\Claim Management\AuthorizationService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Arghyadeep\Desktop\Claim Management\AuthorizationService\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\Arghyadeep\Desktop\Claim Management\AuthorizationService\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Arghyadeep\Desktop\Claim Management\AuthorizationService\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Arghyadeep\Desktop\Claim Management\AuthorizationService\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Arghyadeep\Desktop\Claim Management\AuthorizationService\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Arghyadeep\Desktop\Claim Management\AuthorizationService\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Arghyadeep\Desktop\Claim Management\AuthorizationService\obj\Debug\netcoreapp3.1\AuthorizationService.csprojAssemblyReference.cache
+C:\Users\Arghyadeep\Desktop\Claim Management\AuthorizationService\obj\Debug\netcoreapp3.1\AuthorizationService.AssemblyInfoInputs.cache
+C:\Users\Arghyadeep\Desktop\Claim Management\AuthorizationService\obj\Debug\netcoreapp3.1\AuthorizationService.AssemblyInfo.cs
+C:\Users\Arghyadeep\Desktop\Claim Management\AuthorizationService\obj\Debug\netcoreapp3.1\AuthorizationService.csproj.CoreCompileInputs.cache
+C:\Users\Arghyadeep\Desktop\Claim Management\AuthorizationService\obj\Debug\netcoreapp3.1\AuthorizationService.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Arghyadeep\Desktop\Claim Management\AuthorizationService\obj\Debug\netcoreapp3.1\AuthorizationService.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Arghyadeep\Desktop\Claim Management\AuthorizationService\obj\Debug\netcoreapp3.1\AuthorizationService.RazorTargetAssemblyInfo.cache
+C:\Users\Arghyadeep\Desktop\Claim Management\AuthorizationService\obj\Debug\netcoreapp3.1\AuthorizationService.csproj.CopyComplete
+C:\Users\Arghyadeep\Desktop\Claim Management\AuthorizationService\obj\Debug\netcoreapp3.1\staticwebassets\AuthorizationService.StaticWebAssets.Manifest.cache
+C:\Users\Arghyadeep\Desktop\Claim Management\AuthorizationService\obj\Debug\netcoreapp3.1\staticwebassets\AuthorizationService.StaticWebAssets.xml
+C:\Users\Arghyadeep\Desktop\Claim Management\AuthorizationService\obj\Debug\netcoreapp3.1\AuthorizationService.dll
+C:\Users\Arghyadeep\Desktop\Claim Management\AuthorizationService\obj\Debug\netcoreapp3.1\AuthorizationService.pdb
+C:\Users\Arghyadeep\Desktop\Claim Management\AuthorizationService\obj\Debug\netcoreapp3.1\AuthorizationService.genruntimeconfig.cache
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v1\AuthorizationService\bin\Debug\netcoreapp3.1\log4net.config
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v1\AuthorizationService\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v1\AuthorizationService\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v1\AuthorizationService\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v1\AuthorizationService\bin\Debug\netcoreapp3.1\AuthorizationService.exe
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v1\AuthorizationService\bin\Debug\netcoreapp3.1\AuthorizationService.deps.json
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v1\AuthorizationService\bin\Debug\netcoreapp3.1\AuthorizationService.runtimeconfig.json
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v1\AuthorizationService\bin\Debug\netcoreapp3.1\AuthorizationService.runtimeconfig.dev.json
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v1\AuthorizationService\bin\Debug\netcoreapp3.1\AuthorizationService.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v1\AuthorizationService\bin\Debug\netcoreapp3.1\AuthorizationService.pdb
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v1\AuthorizationService\bin\Debug\netcoreapp3.1\log4net.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v1\AuthorizationService\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v1\AuthorizationService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v1\AuthorizationService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v1\AuthorizationService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v1\AuthorizationService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v1\AuthorizationService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v1\AuthorizationService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v1\AuthorizationService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v1\AuthorizationService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v1\AuthorizationService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v1\AuthorizationService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v1\AuthorizationService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v1\AuthorizationService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v1\AuthorizationService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v1\AuthorizationService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v1\AuthorizationService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v1\AuthorizationService\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v1\AuthorizationService\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v1\AuthorizationService\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v1\AuthorizationService\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v1\AuthorizationService\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v1\AuthorizationService\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v1\AuthorizationService\obj\Debug\netcoreapp3.1\AuthorizationService.csprojAssemblyReference.cache
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v1\AuthorizationService\obj\Debug\netcoreapp3.1\AuthorizationService.AssemblyInfoInputs.cache
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v1\AuthorizationService\obj\Debug\netcoreapp3.1\AuthorizationService.AssemblyInfo.cs
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v1\AuthorizationService\obj\Debug\netcoreapp3.1\AuthorizationService.csproj.CoreCompileInputs.cache
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v1\AuthorizationService\obj\Debug\netcoreapp3.1\AuthorizationService.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v1\AuthorizationService\obj\Debug\netcoreapp3.1\AuthorizationService.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v1\AuthorizationService\obj\Debug\netcoreapp3.1\AuthorizationService.RazorTargetAssemblyInfo.cache
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v1\AuthorizationService\obj\Debug\netcoreapp3.1\AuthorizationService.csproj.CopyComplete
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v1\AuthorizationService\obj\Debug\netcoreapp3.1\staticwebassets\AuthorizationService.StaticWebAssets.Manifest.cache
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v1\AuthorizationService\obj\Debug\netcoreapp3.1\staticwebassets\AuthorizationService.StaticWebAssets.xml
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v1\AuthorizationService\obj\Debug\netcoreapp3.1\AuthorizationService.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v1\AuthorizationService\obj\Debug\netcoreapp3.1\AuthorizationService.pdb
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v1\AuthorizationService\obj\Debug\netcoreapp3.1\AuthorizationService.genruntimeconfig.cache
+D:\Study\ASP.NET CORE PROJECTS\Claim Management Updated v2\AuthorizationService\bin\Debug\netcoreapp3.1\log4net.config
+D:\Study\ASP.NET CORE PROJECTS\Claim Management Updated v2\AuthorizationService\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Study\ASP.NET CORE PROJECTS\Claim Management Updated v2\AuthorizationService\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Study\ASP.NET CORE PROJECTS\Claim Management Updated v2\AuthorizationService\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Study\ASP.NET CORE PROJECTS\Claim Management Updated v2\AuthorizationService\bin\Debug\netcoreapp3.1\AuthorizationService.exe
+D:\Study\ASP.NET CORE PROJECTS\Claim Management Updated v2\AuthorizationService\bin\Debug\netcoreapp3.1\AuthorizationService.deps.json
+D:\Study\ASP.NET CORE PROJECTS\Claim Management Updated v2\AuthorizationService\bin\Debug\netcoreapp3.1\AuthorizationService.runtimeconfig.json
+D:\Study\ASP.NET CORE PROJECTS\Claim Management Updated v2\AuthorizationService\bin\Debug\netcoreapp3.1\AuthorizationService.runtimeconfig.dev.json
+D:\Study\ASP.NET CORE PROJECTS\Claim Management Updated v2\AuthorizationService\bin\Debug\netcoreapp3.1\AuthorizationService.dll
+D:\Study\ASP.NET CORE PROJECTS\Claim Management Updated v2\AuthorizationService\bin\Debug\netcoreapp3.1\AuthorizationService.pdb
+D:\Study\ASP.NET CORE PROJECTS\Claim Management Updated v2\AuthorizationService\bin\Debug\netcoreapp3.1\log4net.dll
+D:\Study\ASP.NET CORE PROJECTS\Claim Management Updated v2\AuthorizationService\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Study\ASP.NET CORE PROJECTS\Claim Management Updated v2\AuthorizationService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Study\ASP.NET CORE PROJECTS\Claim Management Updated v2\AuthorizationService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Study\ASP.NET CORE PROJECTS\Claim Management Updated v2\AuthorizationService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\Study\ASP.NET CORE PROJECTS\Claim Management Updated v2\AuthorizationService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Study\ASP.NET CORE PROJECTS\Claim Management Updated v2\AuthorizationService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Study\ASP.NET CORE PROJECTS\Claim Management Updated v2\AuthorizationService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Study\ASP.NET CORE PROJECTS\Claim Management Updated v2\AuthorizationService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Study\ASP.NET CORE PROJECTS\Claim Management Updated v2\AuthorizationService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+D:\Study\ASP.NET CORE PROJECTS\Claim Management Updated v2\AuthorizationService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Study\ASP.NET CORE PROJECTS\Claim Management Updated v2\AuthorizationService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Study\ASP.NET CORE PROJECTS\Claim Management Updated v2\AuthorizationService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Study\ASP.NET CORE PROJECTS\Claim Management Updated v2\AuthorizationService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Study\ASP.NET CORE PROJECTS\Claim Management Updated v2\AuthorizationService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Study\ASP.NET CORE PROJECTS\Claim Management Updated v2\AuthorizationService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Study\ASP.NET CORE PROJECTS\Claim Management Updated v2\AuthorizationService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Study\ASP.NET CORE PROJECTS\Claim Management Updated v2\AuthorizationService\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\Study\ASP.NET CORE PROJECTS\Claim Management Updated v2\AuthorizationService\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Study\ASP.NET CORE PROJECTS\Claim Management Updated v2\AuthorizationService\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\Study\ASP.NET CORE PROJECTS\Claim Management Updated v2\AuthorizationService\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Study\ASP.NET CORE PROJECTS\Claim Management Updated v2\AuthorizationService\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Study\ASP.NET CORE PROJECTS\Claim Management Updated v2\AuthorizationService\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Study\ASP.NET CORE PROJECTS\Claim Management Updated v2\AuthorizationService\obj\Debug\netcoreapp3.1\AuthorizationService.csprojAssemblyReference.cache
+D:\Study\ASP.NET CORE PROJECTS\Claim Management Updated v2\AuthorizationService\obj\Debug\netcoreapp3.1\AuthorizationService.AssemblyInfoInputs.cache
+D:\Study\ASP.NET CORE PROJECTS\Claim Management Updated v2\AuthorizationService\obj\Debug\netcoreapp3.1\AuthorizationService.AssemblyInfo.cs
+D:\Study\ASP.NET CORE PROJECTS\Claim Management Updated v2\AuthorizationService\obj\Debug\netcoreapp3.1\AuthorizationService.csproj.CoreCompileInputs.cache
+D:\Study\ASP.NET CORE PROJECTS\Claim Management Updated v2\AuthorizationService\obj\Debug\netcoreapp3.1\AuthorizationService.MvcApplicationPartsAssemblyInfo.cs
+D:\Study\ASP.NET CORE PROJECTS\Claim Management Updated v2\AuthorizationService\obj\Debug\netcoreapp3.1\AuthorizationService.MvcApplicationPartsAssemblyInfo.cache
+D:\Study\ASP.NET CORE PROJECTS\Claim Management Updated v2\AuthorizationService\obj\Debug\netcoreapp3.1\AuthorizationService.RazorTargetAssemblyInfo.cache
+D:\Study\ASP.NET CORE PROJECTS\Claim Management Updated v2\AuthorizationService\obj\Debug\netcoreapp3.1\AuthorizationService.csproj.CopyComplete
+D:\Study\ASP.NET CORE PROJECTS\Claim Management Updated v2\AuthorizationService\obj\Debug\netcoreapp3.1\staticwebassets\AuthorizationService.StaticWebAssets.Manifest.cache
+D:\Study\ASP.NET CORE PROJECTS\Claim Management Updated v2\AuthorizationService\obj\Debug\netcoreapp3.1\staticwebassets\AuthorizationService.StaticWebAssets.xml
+D:\Study\ASP.NET CORE PROJECTS\Claim Management Updated v2\AuthorizationService\obj\Debug\netcoreapp3.1\AuthorizationService.dll
+D:\Study\ASP.NET CORE PROJECTS\Claim Management Updated v2\AuthorizationService\obj\Debug\netcoreapp3.1\AuthorizationService.pdb
+D:\Study\ASP.NET CORE PROJECTS\Claim Management Updated v2\AuthorizationService\obj\Debug\netcoreapp3.1\AuthorizationService.genruntimeconfig.cache
+E:\Claims Management Updated V2.1\AuthorizationService\bin\Debug\netcoreapp3.1\log4net.config
+E:\Claims Management Updated V2.1\AuthorizationService\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\Claims Management Updated V2.1\AuthorizationService\bin\Debug\netcoreapp3.1\appsettings.json
+E:\Claims Management Updated V2.1\AuthorizationService\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+E:\Claims Management Updated V2.1\AuthorizationService\bin\Debug\netcoreapp3.1\AuthorizationService.exe
+E:\Claims Management Updated V2.1\AuthorizationService\bin\Debug\netcoreapp3.1\AuthorizationService.deps.json
+E:\Claims Management Updated V2.1\AuthorizationService\bin\Debug\netcoreapp3.1\AuthorizationService.runtimeconfig.json
+E:\Claims Management Updated V2.1\AuthorizationService\bin\Debug\netcoreapp3.1\AuthorizationService.runtimeconfig.dev.json
+E:\Claims Management Updated V2.1\AuthorizationService\bin\Debug\netcoreapp3.1\AuthorizationService.dll
+E:\Claims Management Updated V2.1\AuthorizationService\bin\Debug\netcoreapp3.1\AuthorizationService.pdb
+E:\Claims Management Updated V2.1\AuthorizationService\bin\Debug\netcoreapp3.1\log4net.dll
+E:\Claims Management Updated V2.1\AuthorizationService\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Claims Management Updated V2.1\AuthorizationService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+E:\Claims Management Updated V2.1\AuthorizationService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Claims Management Updated V2.1\AuthorizationService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+E:\Claims Management Updated V2.1\AuthorizationService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\Claims Management Updated V2.1\AuthorizationService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Claims Management Updated V2.1\AuthorizationService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\Claims Management Updated V2.1\AuthorizationService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Claims Management Updated V2.1\AuthorizationService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+E:\Claims Management Updated V2.1\AuthorizationService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\Claims Management Updated V2.1\AuthorizationService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\Claims Management Updated V2.1\AuthorizationService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Claims Management Updated V2.1\AuthorizationService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\Claims Management Updated V2.1\AuthorizationService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\Claims Management Updated V2.1\AuthorizationService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Claims Management Updated V2.1\AuthorizationService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\Claims Management Updated V2.1\AuthorizationService\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+E:\Claims Management Updated V2.1\AuthorizationService\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\Claims Management Updated V2.1\AuthorizationService\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+E:\Claims Management Updated V2.1\AuthorizationService\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Claims Management Updated V2.1\AuthorizationService\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Claims Management Updated V2.1\AuthorizationService\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\Claims Management Updated V2.1\AuthorizationService\obj\Debug\netcoreapp3.1\AuthorizationService.csprojAssemblyReference.cache
+E:\Claims Management Updated V2.1\AuthorizationService\obj\Debug\netcoreapp3.1\AuthorizationService.AssemblyInfoInputs.cache
+E:\Claims Management Updated V2.1\AuthorizationService\obj\Debug\netcoreapp3.1\AuthorizationService.AssemblyInfo.cs
+E:\Claims Management Updated V2.1\AuthorizationService\obj\Debug\netcoreapp3.1\AuthorizationService.csproj.CoreCompileInputs.cache
+E:\Claims Management Updated V2.1\AuthorizationService\obj\Debug\netcoreapp3.1\AuthorizationService.MvcApplicationPartsAssemblyInfo.cs
+E:\Claims Management Updated V2.1\AuthorizationService\obj\Debug\netcoreapp3.1\AuthorizationService.MvcApplicationPartsAssemblyInfo.cache
+E:\Claims Management Updated V2.1\AuthorizationService\obj\Debug\netcoreapp3.1\AuthorizationService.RazorTargetAssemblyInfo.cache
+E:\Claims Management Updated V2.1\AuthorizationService\obj\Debug\netcoreapp3.1\AuthorizationService.csproj.CopyComplete
+E:\Claims Management Updated V2.1\AuthorizationService\obj\Debug\netcoreapp3.1\staticwebassets\AuthorizationService.StaticWebAssets.Manifest.cache
+E:\Claims Management Updated V2.1\AuthorizationService\obj\Debug\netcoreapp3.1\staticwebassets\AuthorizationService.StaticWebAssets.xml
+E:\Claims Management Updated V2.1\AuthorizationService\obj\Debug\netcoreapp3.1\AuthorizationService.dll
+E:\Claims Management Updated V2.1\AuthorizationService\obj\Debug\netcoreapp3.1\AuthorizationService.pdb
+E:\Claims Management Updated V2.1\AuthorizationService\obj\Debug\netcoreapp3.1\AuthorizationService.genruntimeconfig.cache
+E:\Final CM\AuthorizationService\bin\Debug\netcoreapp3.1\log4net.config
+E:\Final CM\AuthorizationService\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\Final CM\AuthorizationService\bin\Debug\netcoreapp3.1\appsettings.json
+E:\Final CM\AuthorizationService\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+E:\Final CM\AuthorizationService\bin\Debug\netcoreapp3.1\AuthorizationService.exe
+E:\Final CM\AuthorizationService\bin\Debug\netcoreapp3.1\AuthorizationService.deps.json
+E:\Final CM\AuthorizationService\bin\Debug\netcoreapp3.1\AuthorizationService.runtimeconfig.json
+E:\Final CM\AuthorizationService\bin\Debug\netcoreapp3.1\AuthorizationService.runtimeconfig.dev.json
+E:\Final CM\AuthorizationService\bin\Debug\netcoreapp3.1\AuthorizationService.dll
+E:\Final CM\AuthorizationService\bin\Debug\netcoreapp3.1\AuthorizationService.pdb
+E:\Final CM\AuthorizationService\bin\Debug\netcoreapp3.1\log4net.dll
+E:\Final CM\AuthorizationService\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Final CM\AuthorizationService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+E:\Final CM\AuthorizationService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Final CM\AuthorizationService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+E:\Final CM\AuthorizationService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\Final CM\AuthorizationService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Final CM\AuthorizationService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\Final CM\AuthorizationService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Final CM\AuthorizationService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+E:\Final CM\AuthorizationService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\Final CM\AuthorizationService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\Final CM\AuthorizationService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Final CM\AuthorizationService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\Final CM\AuthorizationService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\Final CM\AuthorizationService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Final CM\AuthorizationService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\Final CM\AuthorizationService\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+E:\Final CM\AuthorizationService\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\Final CM\AuthorizationService\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+E:\Final CM\AuthorizationService\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Final CM\AuthorizationService\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Final CM\AuthorizationService\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\Final CM\AuthorizationService\obj\Debug\netcoreapp3.1\AuthorizationService.csprojAssemblyReference.cache
+E:\Final CM\AuthorizationService\obj\Debug\netcoreapp3.1\AuthorizationService.AssemblyInfoInputs.cache
+E:\Final CM\AuthorizationService\obj\Debug\netcoreapp3.1\AuthorizationService.AssemblyInfo.cs
+E:\Final CM\AuthorizationService\obj\Debug\netcoreapp3.1\AuthorizationService.csproj.CoreCompileInputs.cache
+E:\Final CM\AuthorizationService\obj\Debug\netcoreapp3.1\AuthorizationService.MvcApplicationPartsAssemblyInfo.cs
+E:\Final CM\AuthorizationService\obj\Debug\netcoreapp3.1\AuthorizationService.MvcApplicationPartsAssemblyInfo.cache
+E:\Final CM\AuthorizationService\obj\Debug\netcoreapp3.1\AuthorizationService.RazorTargetAssemblyInfo.cache
+E:\Final CM\AuthorizationService\obj\Debug\netcoreapp3.1\AuthorizationService.csproj.CopyComplete
+E:\Final CM\AuthorizationService\obj\Debug\netcoreapp3.1\staticwebassets\AuthorizationService.StaticWebAssets.Manifest.cache
+E:\Final CM\AuthorizationService\obj\Debug\netcoreapp3.1\staticwebassets\AuthorizationService.StaticWebAssets.xml
+E:\Final CM\AuthorizationService\obj\Debug\netcoreapp3.1\AuthorizationService.dll
+E:\Final CM\AuthorizationService\obj\Debug\netcoreapp3.1\AuthorizationService.pdb
+E:\Final CM\AuthorizationService\obj\Debug\netcoreapp3.1\AuthorizationService.genruntimeconfig.cache
